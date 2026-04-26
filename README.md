@@ -48,7 +48,7 @@ Planned improvements include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smileOS.git
+git clone https://github.com/studi8audioeimagem-lgtm/smileOS.git
 cd smileOS
 ```
 
